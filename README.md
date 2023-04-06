@@ -1,4 +1,4 @@
-# Project 1: 
+# Module 1 Challenge: Horiseon Website
 
 ## Description
 In this project I altered the webpages CSS file by organizing it, getting rid of repeated code, and adding comments to make the file more readable.
